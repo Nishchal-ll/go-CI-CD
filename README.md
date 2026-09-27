@@ -146,6 +146,10 @@ This service is configured for zero-downtime automated deployment on **Render**:
 - [x] GitHub Container Registry (GHCR) integration with dynamic commit SHA tags.
 - [x] Continuous Deployment (CD) integration with cloud hosting platforms.
 
+## Author
+- **Nishchal Acharya** - [Portfolio & Projects](https://www.acharyanishchal.com.np)
+
+
 ---
 
 ## 📄 License
